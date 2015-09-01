@@ -1,0 +1,8 @@
+a78f0c4 List new scenerio
+227848d New door scenerio
+fa400ba Delete door choice
+2faa352 Output branch diff
+4a675d6 Add real door decision
+a063782 Reveal which door
+6097129 Prompt question re which door
+552d250 First Commit - Add txt re # doors
