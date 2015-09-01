@@ -2,5 +2,4 @@ You are in a room with three doors.
 Which door will you go through?
 I choose door number 3. Bawahhhahahah. 
 ERROR. Door number 3 does NOT exist. 
-Choose 1 or 2. 
-Player chose 1. 
+Door 4 chosen. 
